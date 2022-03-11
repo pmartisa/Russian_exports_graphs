@@ -1,0 +1,380 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,4,0,2,Export,643,Russian Federation,RUS,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,33065901341,,,,33065901341,,5796184206,,,6
+H5,2017,2017,2017,4,0,2,Export,643,Russian Federation,RUS,8,Albania,ALB,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,151675990,,,,151675990,,24721125,,,0
+H5,2017,2017,2017,4,0,2,Export,643,Russian Federation,RUS,24,Angola,AGO,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,7550000,,,,7550000,,1389200,,,0
+H5,2017,2017,2017,4,0,2,Export,643,Russian Federation,RUS,31,Azerbaijan,AZE,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,1213908300,,,,1213908300,,200301735,,,0
+H5,2017,2017,2017,4,0,2,Export,643,Russian Federation,RUS,50,Bangladesh,BGD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,1923410950,,,,1923410950,,320814351,,,0
+H5,2017,2017,2017,4,0,2,Export,643,Russian Federation,RUS,51,Armenia,ARM,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,213727280,,,,213727280,,37975382,,,0
+H5,2017,2017,2017,4,0,2,Export,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,100,,,,100,,9,,,0
+H5,2017,2017,2017,4,0,2,Export,643,Russian Federation,RUS,108,Burundi,BDI,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,28140000,,,,28140000,,4997493,,,0
+H5,2017,2017,2017,4,0,2,Export,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,99543370,,,,99543370,,14204133,,,0
+H5,2017,2017,2017,4,0,2,Export,643,Russian Federation,RUS,120,Cameroon,CMR,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,278571000,,,,278571000,,48215942,,,0
+H5,2017,2017,2017,4,0,2,Export,643,Russian Federation,RUS,132,Cabo Verde,CPV,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,19725650,,,,19725650,,3573904,,,0
+H5,2017,2017,2017,4,0,2,Export,643,Russian Federation,RUS,144,Sri Lanka,LKA,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,302833000,,,,302833000,,55038225,,,0
+H5,2017,2017,2017,4,0,2,Export,643,Russian Federation,RUS,156,China,CHN,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,18027100,,,,18027100,,4252454,,,0
+H5,2017,2017,2017,4,0,2,Export,643,Russian Federation,RUS,178,Congo,COG,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,119386890,,,,119386890,,21488952,,,0
+H5,2017,2017,2017,4,0,2,Export,643,Russian Federation,RUS,180,Dem. Rep. of the Congo,COD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,73504930,,,,73504930,,12730054,,,0
+H5,2017,2017,2017,4,0,2,Export,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,44499030,,,,44499030,,7529897,,,0
+H5,2017,2017,2017,4,0,2,Export,643,Russian Federation,RUS,204,Benin,BEN,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,15794000,,,,15794000,,2878422,,,0
+H5,2017,2017,2017,4,0,2,Export,643,Russian Federation,RUS,231,Ethiopia,ETH,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,43998630,,,,43998630,,8004740,,,0
+H5,2017,2017,2017,4,0,2,Export,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,1198700,,,,1198700,,262631,,,0
+H5,2017,2017,2017,4,0,2,Export,643,Russian Federation,RUS,262,Djibouti,DJI,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,49500000,,,,49500000,,7969500,,,0
+H5,2017,2017,2017,4,0,2,Export,643,Russian Federation,RUS,268,Georgia,GEO,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,520911400,,,,520911400,,88444988,,,0
+H5,2017,2017,2017,4,0,2,Export,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,6027100,,,,6027100,,961670,,,0
+H5,2017,2017,2017,4,0,2,Export,643,Russian Federation,RUS,288,Ghana,GHA,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,234300000,,,,234300000,,40856421,,,0
+H5,2017,2017,2017,4,0,2,Export,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,90962130,,,,90962130,,15391172,,,0
+H5,2017,2017,2017,4,0,2,Export,643,Russian Federation,RUS,332,Haiti,HTI,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,27490800,,,,27490800,,5415679,,,0
+H5,2017,2017,2017,4,0,2,Export,643,Russian Federation,RUS,352,Iceland,ISL,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,1990880,,,,1990880,,326503,,,0
+H5,2017,2017,2017,4,0,2,Export,643,Russian Federation,RUS,360,Indonesia,IDN,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,1184059200,,,,1184059200,,200973059,,,0
+H5,2017,2017,2017,4,0,2,Export,643,Russian Federation,RUS,364,Iran,IRN,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,174496730,,,,174496730,,30844096,,,0
+H5,2017,2017,2017,4,0,2,Export,643,Russian Federation,RUS,376,Israel,ISR,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,603608200,,,,603608200,,105116701,,,0
+H5,2017,2017,2017,4,0,2,Export,643,Russian Federation,RUS,381,Italy,ITA,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,110865100,,,,110865100,,24711172,,,0
+H5,2017,2017,2017,4,0,2,Export,643,Russian Federation,RUS,384,Côte d'Ivoire,CIV,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,83775000,,,,83775000,,15592494,,,0
+H5,2017,2017,2017,4,0,2,Export,643,Russian Federation,RUS,392,Japan,JPN,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,23078200,,,,23078200,,4047126,,,0
+H5,2017,2017,2017,4,0,2,Export,643,Russian Federation,RUS,398,Kazakhstan,KAZ,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,39899416,,,,39899416,,6119392,,,6
+H5,2017,2017,2017,4,0,2,Export,643,Russian Federation,RUS,400,Jordan,JOR,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,30250000,,,,30250000,,6131570,,,0
+H5,2017,2017,2017,4,0,2,Export,643,Russian Federation,RUS,404,Kenya,KEN,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,642678600,,,,642678600,,116432842,,,0
+H5,2017,2017,2017,4,0,2,Export,643,Russian Federation,RUS,408,Dem. People's Rep. of Korea,PRK,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,681100,,,,681100,,129409,,,0
+H5,2017,2017,2017,4,0,2,Export,643,Russian Federation,RUS,410,Rep. of Korea,KOR,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,226792500,,,,226792500,,32033211,,,0
+H5,2017,2017,2017,4,0,2,Export,643,Russian Federation,RUS,417,Kyrgyzstan,KGZ,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,20155,,,,20155,,6811,,,0
+H5,2017,2017,2017,4,0,2,Export,643,Russian Federation,RUS,422,Lebanon,LBN,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,957865860,,,,957865860,,165323779,,,0
+H5,2017,2017,2017,4,0,2,Export,643,Russian Federation,RUS,428,Latvia,LVA,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,545963950,,,,545963950,,83306064,,,0
+H5,2017,2017,2017,4,0,2,Export,643,Russian Federation,RUS,434,Libya,LBY,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,310996100,,,,310996100,,55961193,,,0
+H5,2017,2017,2017,4,0,2,Export,643,Russian Federation,RUS,454,Malawi,MWI,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,51973000,,,,51973000,,9695263,,,0
+H5,2017,2017,2017,4,0,2,Export,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,101450000,,,,101450000,,18476227,,,0
+H5,2017,2017,2017,4,0,2,Export,643,Russian Federation,RUS,466,Mali,MLI,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,37750000,,,,37750000,,7075010,,,0
+H5,2017,2017,2017,4,0,2,Export,643,Russian Federation,RUS,478,Mauritania,MRT,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,57977360,,,,57977360,,9863719,,,0
+H5,2017,2017,2017,4,0,2,Export,643,Russian Federation,RUS,484,Mexico,MEX,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,366274370,,,,366274370,,65836142,,,0
+H5,2017,2017,2017,4,0,2,Export,643,Russian Federation,RUS,496,Mongolia,MNG,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,20068650,,,,20068650,,3831028,,,0
+H5,2017,2017,2017,4,0,2,Export,643,Russian Federation,RUS,504,Morocco,MAR,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,282770330,,,,282770330,,47384076,,,0
+H5,2017,2017,2017,4,0,2,Export,643,Russian Federation,RUS,508,Mozambique,MOZ,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,269935300,,,,269935300,,50242835,,,0
+H5,2017,2017,2017,4,0,2,Export,643,Russian Federation,RUS,512,Oman,OMN,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,363590300,,,,363590300,,67732513,,,0
+H5,2017,2017,2017,4,0,2,Export,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,9736650,,,,9736650,,2045220,,,0
+H5,2017,2017,2017,4,0,2,Export,643,Russian Federation,RUS,558,Nicaragua,NIC,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,132480000,,,,132480000,,25062806,,,0
+H5,2017,2017,2017,4,0,2,Export,643,Russian Federation,RUS,562,Niger,NER,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,2200000,,,,2200000,,418000,,,0
+H5,2017,2017,2017,4,0,2,Export,643,Russian Federation,RUS,566,Nigeria,NGA,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,1386391500,,,,1386391500,,255804337,,,0
+H5,2017,2017,2017,4,0,2,Export,643,Russian Federation,RUS,579,Norway,NOR,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,34556720,,,,34556720,,6440159,,,0
+H5,2017,2017,2017,4,0,2,Export,643,Russian Federation,RUS,604,Peru,PER,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,128442200,,,,128442200,,25728043,,,0
+H5,2017,2017,2017,4,0,2,Export,643,Russian Federation,RUS,608,Philippines,PHL,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,155649900,,,,155649900,,23919717,,,0
+H5,2017,2017,2017,4,0,2,Export,643,Russian Federation,RUS,616,Poland,POL,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,3097650,,,,3097650,,722775,,,0
+H5,2017,2017,2017,4,0,2,Export,643,Russian Federation,RUS,634,Qatar,QAT,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,97226100,,,,97226100,,17698914,,,0
+H5,2017,2017,2017,4,0,2,Export,643,Russian Federation,RUS,642,Romania,ROU,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,12930960,,,,12930960,,2146973,,,0
+H5,2017,2017,2017,4,0,2,Export,643,Russian Federation,RUS,646,Rwanda,RWA,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,79120000,,,,79120000,,14315615,,,0
+H5,2017,2017,2017,4,0,2,Export,643,Russian Federation,RUS,686,Senegal,SEN,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,236872900,,,,236872900,,43020132,,,0
+H5,2017,2017,2017,4,0,2,Export,643,Russian Federation,RUS,688,Serbia,SRB,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,10080,,,,10080,,2736,,,0
+H5,2017,2017,2017,4,0,2,Export,643,Russian Federation,RUS,699,India,IND,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,383280800,,,,383280800,,63281733,,,0
+H5,2017,2017,2017,4,0,2,Export,643,Russian Federation,RUS,704,Viet Nam,VNM,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,945847100,,,,945847100,,144628058,,,0
+H5,2017,2017,2017,4,0,2,Export,643,Russian Federation,RUS,710,South Africa,ZAF,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,490482000,,,,490482000,,89543098,,,0
+H5,2017,2017,2017,4,0,2,Export,643,Russian Federation,RUS,716,Zimbabwe,ZWE,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,675000,,,,675000,,353157,,,0
+H5,2017,2017,2017,4,0,2,Export,643,Russian Federation,RUS,724,Spain,ESP,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,27494200,,,,27494200,,4096628,,,0
+H5,2017,2017,2017,4,0,2,Export,643,Russian Federation,RUS,729,Sudan,SDN,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,1454593600,,,,1454593600,,263650715,,,0
+H5,2017,2017,2017,4,0,2,Export,643,Russian Federation,RUS,752,Sweden,SWE,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,3844360,,,,3844360,,615097,,,0
+H5,2017,2017,2017,4,0,2,Export,643,Russian Federation,RUS,757,Switzerland,CHE,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,106981500,,,,106981500,,18256259,,,0
+H5,2017,2017,2017,4,0,2,Export,643,Russian Federation,RUS,760,Syria,SYR,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,165272720,,,,165272720,,30541829,,,0
+H5,2017,2017,2017,4,0,2,Export,643,Russian Federation,RUS,762,Tajikistan,TJK,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,125000,,,,125000,,48800,,,0
+H5,2017,2017,2017,4,0,2,Export,643,Russian Federation,RUS,764,Thailand,THA,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,65367000,,,,65367000,,10137953,,,0
+H5,2017,2017,2017,4,0,2,Export,643,Russian Federation,RUS,768,Togo,TGO,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,37200000,,,,37200000,,6456748,,,0
+H5,2017,2017,2017,4,0,2,Export,643,Russian Federation,RUS,784,United Arab Emirates,ARE,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,970737400,,,,970737400,,174231749,,,0
+H5,2017,2017,2017,4,0,2,Export,643,Russian Federation,RUS,788,Tunisia,TUN,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,274407210,,,,274407210,,49336668,,,0
+H5,2017,2017,2017,4,0,2,Export,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,3445172520,,,,3445172520,,550472396,,,0
+H5,2017,2017,2017,4,0,2,Export,643,Russian Federation,RUS,800,Uganda,UGA,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,221334600,,,,221334600,,40559827,,,0
+H5,2017,2017,2017,4,0,2,Export,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,509720,,,,509720,,141107,,,0
+H5,2017,2017,2017,4,0,2,Export,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,7835357000,,,,7835357000,,1433503030,,,0
+H5,2017,2017,2017,4,0,2,Export,643,Russian Federation,RUS,834,United Rep. of Tanzania,TZA,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,680662400,,,,680662400,,122510381,,,0
+H5,2017,2017,2017,4,0,2,Export,643,Russian Federation,RUS,854,Burkina Faso,BFA,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,76500000,,,,76500000,,13336028,,,0
+H5,2017,2017,2017,4,0,2,Export,643,Russian Federation,RUS,860,Uzbekistan,UZB,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,240000,,,,240000,,198240,,,0
+H5,2017,2017,2017,4,0,2,Export,643,Russian Federation,RUS,862,Venezuela,VEN,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,192366000,,,,192366000,,41783454,,,0
+H5,2017,2017,2017,4,0,2,Export,643,Russian Federation,RUS,887,Yemen,YEM,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,1435239900,,,,1435239900,,266565470,,,0
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,43965626394,,,,43965626394,,8432492719,,,0
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,4,Afghanistan,AFG,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,65000,,,,65000,,9721,,,0
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,8,Albania,ALB,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,183345950,,,,183345950,,35540558,,,0
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,12,Algeria,DZA,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,31207650,,,,31207650,,5082958,,,0
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,24,Angola,AGO,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,49479800,,,,49479800,,9709216,,,0
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,31,Azerbaijan,AZE,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,702352700,,,,702352700,,120753302,,,0
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,40,Austria,AUT,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,719350,,,,719350,,131641,,,0
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,50,Bangladesh,BGD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,1862358500,,,,1862358500,,367612605,,,0
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,51,Armenia,ARM,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,260155114,,,,260155114,,45071974,,,0
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,56,Belgium,BEL,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,32820000,,,,32820000,,5613594,,,0
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,26229900,,,,26229900,,4668849,,,0
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,5215740,,,,5215740,,857989,,,0
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,104,Myanmar,MMR,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,6876420,,,,6876420,,1710345,,,0
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,108,Burundi,BDI,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,53286140,,,,53286140,,10386038,,,0
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,287134696,,,,287134696,,43440021,,,0
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,120,Cameroon,CMR,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,451925000,,,,451925000,,88041346,,,0
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,132,Cabo Verde,CPV,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,10000000,,,,10000000,,2122222,,,0
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,144,Sri Lanka,LKA,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,84082710,,,,84082710,,15413072,,,0
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,156,China,CHN,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,86748740,,,,86748740,,13898024,,,0
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,178,Congo,COG,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,133961100,,,,133961100,,26616553,,,0
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,180,Dem. Rep. of the Congo,COD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,139966180,,,,139966180,,26071650,,,0
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,48423670,,,,48423670,,8758656,,,0
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,204,Benin,BEN,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,4500000,,,,4500000,,901350,,,0
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,28886860,,,,28886860,,5197165,,,0
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,218,Ecuador,ECU,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,93196800,,,,93196800,,15364051,,,0
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,231,Ethiopia,ETH,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,245490700,,,,245490700,,47441965,,,0
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,232,Eritrea,ERI,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,27500000,,,,27500000,,5701025,,,0
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,5240500,,,,5240500,,1082165,,,0
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,251,France,FRA,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,22000,,,,22000,,6633,,,0
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,262,Djibouti,DJI,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,49031450,,,,49031450,,11012317,,,0
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,266,Gabon,GAB,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,10200000,,,,10200000,,2051700,,,0
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,268,Georgia,GEO,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,488844900,,,,488844900,,85932009,,,0
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,270,Gambia,GMB,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,6513190,,,,6513190,,1205766,,,0
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,275,State of Palestine,PSE,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,4496350,,,,4496350,,889412,,,0
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,43201800,,,,43201800,,7209472,,,0
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,288,Ghana,GHA,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,314140000,,,,314140000,,61278973,,,0
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,310219620,,,,310219620,,57481508,,,0
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,324,Guinea,GIN,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,178879730,,,,178879730,,36723720,,,0
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,332,Haiti,HTI,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,52220700,,,,52220700,,10253586,,,0
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,360,Indonesia,IDN,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,1374672500,,,,1374672500,,258855962,,,0
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,364,Iran,IRN,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,117709600,,,,117709600,,21415140,,,0
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,368,Iraq,IRQ,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,553538,,,,553538,,133611,,,0
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,372,Ireland,IRL,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,58805150,,,,58805150,,8695207,,,0
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,376,Israel,ISR,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,760268600,,,,760268600,,139470706,,,0
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,381,Italy,ITA,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,123998290,,,,123998290,,26856758,,,0
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,384,Côte d'Ivoire,CIV,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,115401000,,,,115401000,,23876077,,,0
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,392,Japan,JPN,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,48465940,,,,48465940,,9276842,,,0
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,398,Kazakhstan,KAZ,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,67325110,,,,67325110,,6892704,,,0
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,400,Jordan,JOR,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,112589890,,,,112589890,,21563231,,,0
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,404,Kenya,KEN,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,797927900,,,,797927900,,160493908,,,0
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,408,Dem. People's Rep. of Korea,PRK,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,2242000,,,,2242000,,1117161,,,0
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,410,Rep. of Korea,KOR,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,238765280,,,,238765280,,42875637,,,0
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,417,Kyrgyzstan,KGZ,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,5762,,,,5762,,2305,,,0
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,422,Lebanon,LBN,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,961896400,,,,961896400,,180913986,,,0
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,428,Latvia,LVA,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,1269388410,,,,1269388410,,221090897,,,0
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,430,Liberia,LBR,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,7000000,,,,7000000,,1483873,,,0
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,434,Libya,LBY,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,309989270,,,,309989270,,60976398,,,0
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,440,Lithuania,LTU,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,76672490,,,,76672490,,15183153,,,0
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,454,Malawi,MWI,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,56500000,,,,56500000,,11336531,,,0
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,155758160,,,,155758160,,32109343,,,0
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,466,Mali,MLI,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,73800000,,,,73800000,,15328416,,,0
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,478,Mauritania,MRT,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,93389440,,,,93389440,,16623297,,,0
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,484,Mexico,MEX,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,994714500,,,,994714500,,185746352,,,0
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,496,Mongolia,MNG,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,225954890,,,,225954890,,43310237,,,0
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,43400,,,,43400,,17374,,,0
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,504,Morocco,MAR,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,539365850,,,,539365850,,103736427,,,0
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,508,Mozambique,MOZ,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,338964300,,,,338964300,,67515698,,,0
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,512,Oman,OMN,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,385419960,,,,385419960,,76803349,,,0
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,516,Namibia,NAM,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,22540840,,,,22540840,,4333348,,,0
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,101459690,,,,101459690,,18138955,,,0
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,558,Nicaragua,NIC,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,97310000,,,,97310000,,19139101,,,0
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,566,Nigeria,NGA,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,1975421000,,,,1975421000,,403612844,,,0
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,579,Norway,NOR,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,59535770,,,,59535770,,11217986,,,0
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,604,Peru,PER,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,124318610,,,,124318610,,23270197,,,0
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,608,Philippines,PHL,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,1023375810,,,,1023375810,,192858811,,,0
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,620,Portugal,PRT,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,28206200,,,,28206200,,4075798,,,0
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,634,Qatar,QAT,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,92665040,,,,92665040,,16791662,,,0
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,642,Romania,ROU,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,156183930,,,,156183930,,26719929,,,0
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,646,Rwanda,RWA,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,120130000,,,,120130000,,24244188,,,0
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,682,Saudi Arabia,SAU,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,49500,,,,49500,,11706,,,0
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,686,Senegal,SEN,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,245465720,,,,245465720,,49082838,,,0
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,688,Serbia,SRB,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,67000,,,,67000,,20783,,,0
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,704,Viet Nam,VNM,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,2489996300,,,,2489996300,,459252487,,,0
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,706,Somalia,SOM,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,20607500,,,,20607500,,4060374,,,0
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,710,South Africa,ZAF,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,780364150,,,,780364150,,152208423,,,0
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,716,Zimbabwe,ZWE,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,24295000,,,,24295000,,5311862,,,0
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,724,Spain,ESP,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,176408140,,,,176408140,,30075821,,,0
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,729,Sudan,SDN,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,2149574000,,,,2149574000,,417384495,,,0
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,752,Sweden,SWE,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,19205460,,,,19205460,,3351831,,,0
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,757,Switzerland,CHE,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,153051450,,,,153051450,,28974140,,,0
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,760,Syria,SYR,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,48957890,,,,48957890,,8174830,,,0
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,762,Tajikistan,TJK,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,44,,,,44,,81,,,0
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,764,Thailand,THA,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,186668190,,,,186668190,,35917291,,,0
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,768,Togo,TGO,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,49500000,,,,49500000,,9355234,,,0
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,784,United Arab Emirates,ARE,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,706328000,,,,706328000,,138587273,,,0
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,788,Tunisia,TUN,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,220426430,,,,220426430,,42220515,,,0
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,4974082980,,,,4974082980,,926504978,,,0
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,3397700,,,,3397700,,1990026,,,0
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,800,Uganda,UGA,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,245172340,,,,245172340,,49918184,,,0
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,846400,,,,846400,,204701,,,0
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,9576778000,,,,9576778000,,1893309876,,,0
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,834,United Rep. of Tanzania,TZA,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,760613610,,,,760613610,,151529471,,,0
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,854,Burkina Faso,BFA,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,100350000,,,,100350000,,20083966,,,0
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,860,Uzbekistan,UZB,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,5044000,,,,5044000,,3083140,,,0
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,862,Venezuela,VEN,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,257239010,,,,257239010,,57938901,,,0
+H5,2018,2018,2018,4,0,2,Export,643,Russian Federation,RUS,887,Yemen,YEM,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,1343464100,,,,1343464100,,264592895,,,0
+H5,2019,2019,2019,4,0,2,Export,643,Russian Federation,RUS,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,31873169714,,,,31873169714,,6403010894,,,0
+H5,2019,2019,2019,4,0,2,Export,643,Russian Federation,RUS,8,Albania,ALB,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,189693990,,,,189693990,,36605630,,,0
+H5,2019,2019,2019,4,0,2,Export,643,Russian Federation,RUS,12,Algeria,DZA,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,21880,,,,21880,,5907,,,0
+H5,2019,2019,2019,4,0,2,Export,643,Russian Federation,RUS,24,Angola,AGO,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,82100000,,,,82100000,,15609397,,,0
+H5,2019,2019,2019,4,0,2,Export,643,Russian Federation,RUS,31,Azerbaijan,AZE,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,1285439200,,,,1285439200,,257100285,,,0
+H5,2019,2019,2019,4,0,2,Export,643,Russian Federation,RUS,50,Bangladesh,BGD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,2582341550,,,,2582341550,,524626010,,,0
+H5,2019,2019,2019,4,0,2,Export,643,Russian Federation,RUS,51,Armenia,ARM,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,322901141,,,,322901141,,59200354,,,0
+H5,2019,2019,2019,4,0,2,Export,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,91733200,,,,91733200,,17860657,,,0
+H5,2019,2019,2019,4,0,2,Export,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,3002560,,,,3002560,,579770,,,0
+H5,2019,2019,2019,4,0,2,Export,643,Russian Federation,RUS,104,Myanmar,MMR,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,12097360,,,,12097360,,2549788,,,0
+H5,2019,2019,2019,4,0,2,Export,643,Russian Federation,RUS,108,Burundi,BDI,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,24310000,,,,24310000,,4981090,,,0
+H5,2019,2019,2019,4,0,2,Export,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,288808770,,,,288808770,,54008597,,,0
+H5,2019,2019,2019,4,0,2,Export,643,Russian Federation,RUS,120,Cameroon,CMR,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,385114700,,,,385114700,,78057451,,,0
+H5,2019,2019,2019,4,0,2,Export,643,Russian Federation,RUS,144,Sri Lanka,LKA,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,220603300,,,,220603300,,46647210,,,0
+H5,2019,2019,2019,4,0,2,Export,643,Russian Federation,RUS,156,China,CHN,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,61874073,,,,61874073,,10848739,,,0
+H5,2019,2019,2019,4,0,2,Export,643,Russian Federation,RUS,178,Congo,COG,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,116662500,,,,116662500,,25093056,,,0
+H5,2019,2019,2019,4,0,2,Export,643,Russian Federation,RUS,180,Dem. Rep. of the Congo,COD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,120124200,,,,120124200,,24942438,,,0
+H5,2019,2019,2019,4,0,2,Export,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,55595630,,,,55595630,,11061210,,,0
+H5,2019,2019,2019,4,0,2,Export,643,Russian Federation,RUS,204,Benin,BEN,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,19699120,,,,19699120,,4545906,,,0
+H5,2019,2019,2019,4,0,2,Export,643,Russian Federation,RUS,208,Denmark,DNK,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,1979010,,,,1979010,,395653,,,0
+H5,2019,2019,2019,4,0,2,Export,643,Russian Federation,RUS,231,Ethiopia,ETH,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,69755200,,,,69755200,,12719041,,,0
+H5,2019,2019,2019,4,0,2,Export,643,Russian Federation,RUS,262,Djibouti,DJI,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,134871600,,,,134871600,,24389794,,,0
+H5,2019,2019,2019,4,0,2,Export,643,Russian Federation,RUS,266,Gabon,GAB,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,6600000,,,,6600000,,1557600,,,0
+H5,2019,2019,2019,4,0,2,Export,643,Russian Federation,RUS,268,Georgia,GEO,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,445973700,,,,445973700,,86488648,,,0
+H5,2019,2019,2019,4,0,2,Export,643,Russian Federation,RUS,270,Gambia,GMB,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,39848900,,,,39848900,,8303263,,,0
+H5,2019,2019,2019,4,0,2,Export,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,2896430,,,,2896430,,651832,,,0
+H5,2019,2019,2019,4,0,2,Export,643,Russian Federation,RUS,288,Ghana,GHA,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,205351000,,,,205351000,,42429055,,,0
+H5,2019,2019,2019,4,0,2,Export,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,204717980,,,,204717980,,41870571,,,0
+H5,2019,2019,2019,4,0,2,Export,643,Russian Federation,RUS,324,Guinea,GIN,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,154775900,,,,154775900,,30913673,,,0
+H5,2019,2019,2019,4,0,2,Export,643,Russian Federation,RUS,332,Haiti,HTI,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,27497500,,,,27497500,,6277804,,,0
+H5,2019,2019,2019,4,0,2,Export,643,Russian Federation,RUS,348,Hungary,HUN,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,10500,,,,10500,,14754,,,0
+H5,2019,2019,2019,4,0,2,Export,643,Russian Federation,RUS,360,Indonesia,IDN,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,412241500,,,,412241500,,72026203,,,0
+H5,2019,2019,2019,4,0,2,Export,643,Russian Federation,RUS,364,Iran,IRN,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,67075950,,,,67075950,,14180479,,,0
+H5,2019,2019,2019,4,0,2,Export,643,Russian Federation,RUS,372,Ireland,IRL,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,11609200,,,,11609200,,2190062,,,0
+H5,2019,2019,2019,4,0,2,Export,643,Russian Federation,RUS,376,Israel,ISR,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,383600110,,,,383600110,,74128055,,,0
+H5,2019,2019,2019,4,0,2,Export,643,Russian Federation,RUS,381,Italy,ITA,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,105394660,,,,105394660,,22807154,,,0
+H5,2019,2019,2019,4,0,2,Export,643,Russian Federation,RUS,384,Côte d'Ivoire,CIV,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,104749500,,,,104749500,,22622004,,,0
+H5,2019,2019,2019,4,0,2,Export,643,Russian Federation,RUS,392,Japan,JPN,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,45416770,,,,45416770,,9811826,,,0
+H5,2019,2019,2019,4,0,2,Export,643,Russian Federation,RUS,398,Kazakhstan,KAZ,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,340200679,,,,340200679,,53698622,,,0
+H5,2019,2019,2019,4,0,2,Export,643,Russian Federation,RUS,404,Kenya,KEN,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,513232000,,,,513232000,,101191637,,,0
+H5,2019,2019,2019,4,0,2,Export,643,Russian Federation,RUS,408,Dem. People's Rep. of Korea,PRK,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,6293000,,,,6293000,,3747512,,,0
+H5,2019,2019,2019,4,0,2,Export,643,Russian Federation,RUS,410,Rep. of Korea,KOR,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,420000,,,,420000,,92400,,,0
+H5,2019,2019,2019,4,0,2,Export,643,Russian Federation,RUS,417,Kyrgyzstan,KGZ,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,21105438,,,,21105438,,4110446,,,0
+H5,2019,2019,2019,4,0,2,Export,643,Russian Federation,RUS,418,Lao People's Dem. Rep.,LAO,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,5948740,,,,5948740,,1421748,,,0
+H5,2019,2019,2019,4,0,2,Export,643,Russian Federation,RUS,422,Lebanon,LBN,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,403975160,,,,403975160,,83252493,,,0
+H5,2019,2019,2019,4,0,2,Export,643,Russian Federation,RUS,428,Latvia,LVA,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,578805990,,,,578805990,,108011087,,,0
+H5,2019,2019,2019,4,0,2,Export,643,Russian Federation,RUS,430,Liberia,LBR,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,12675000,,,,12675000,,2431650,,,0
+H5,2019,2019,2019,4,0,2,Export,643,Russian Federation,RUS,434,Libya,LBY,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,228596720,,,,228596720,,48502563,,,0
+H5,2019,2019,2019,4,0,2,Export,643,Russian Federation,RUS,440,Lithuania,LTU,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,147277550,,,,147277550,,28699790,,,0
+H5,2019,2019,2019,4,0,2,Export,643,Russian Federation,RUS,450,Madagascar,MDG,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,32529960,,,,32529960,,6103698,,,0
+H5,2019,2019,2019,4,0,2,Export,643,Russian Federation,RUS,454,Malawi,MWI,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,23950000,,,,23950000,,4798764,,,0
+H5,2019,2019,2019,4,0,2,Export,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,75720790,,,,75720790,,14572927,,,0
+H5,2019,2019,2019,4,0,2,Export,643,Russian Federation,RUS,466,Mali,MLI,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,101921700,,,,101921700,,21547667,,,0
+H5,2019,2019,2019,4,0,2,Export,643,Russian Federation,RUS,470,Malta,MLT,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,6491010,,,,6491010,,1302065,,,0
+H5,2019,2019,2019,4,0,2,Export,643,Russian Federation,RUS,484,Mexico,MEX,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,99922600,,,,99922600,,20936456,,,0
+H5,2019,2019,2019,4,0,2,Export,643,Russian Federation,RUS,496,Mongolia,MNG,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,15245745,,,,15245745,,2901190,,,0
+H5,2019,2019,2019,4,0,2,Export,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,100660,,,,100660,,48117,,,0
+H5,2019,2019,2019,4,0,2,Export,643,Russian Federation,RUS,504,Morocco,MAR,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,453922770,,,,453922770,,99055875,,,0
+H5,2019,2019,2019,4,0,2,Export,643,Russian Federation,RUS,508,Mozambique,MOZ,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,255956000,,,,255956000,,52063046,,,0
+H5,2019,2019,2019,4,0,2,Export,643,Russian Federation,RUS,512,Oman,OMN,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,384995130,,,,384995130,,77095552,,,0
+H5,2019,2019,2019,4,0,2,Export,643,Russian Federation,RUS,516,Namibia,NAM,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,35503500,,,,35503500,,8466369,,,0
+H5,2019,2019,2019,4,0,2,Export,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,1413225,,,,1413225,,393215,,,0
+H5,2019,2019,2019,4,0,2,Export,643,Russian Federation,RUS,558,Nicaragua,NIC,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,102832300,,,,102832300,,21777463,,,0
+H5,2019,2019,2019,4,0,2,Export,643,Russian Federation,RUS,566,Nigeria,NGA,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,894729900,,,,894729900,,180635193,,,0
+H5,2019,2019,2019,4,0,2,Export,643,Russian Federation,RUS,579,Norway,NOR,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,29138470,,,,29138470,,6021208,,,0
+H5,2019,2019,2019,4,0,2,Export,643,Russian Federation,RUS,604,Peru,PER,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,51550000,,,,51550000,,9888610,,,0
+H5,2019,2019,2019,4,0,2,Export,643,Russian Federation,RUS,608,Philippines,PHL,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,294624930,,,,294624930,,55305049,,,0
+H5,2019,2019,2019,4,0,2,Export,643,Russian Federation,RUS,616,Poland,POL,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,110000,,,,110000,,25077,,,0
+H5,2019,2019,2019,4,0,2,Export,643,Russian Federation,RUS,634,Qatar,QAT,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,62900000,,,,62900000,,12943837,,,0
+H5,2019,2019,2019,4,0,2,Export,643,Russian Federation,RUS,642,Romania,ROU,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,3299170,,,,3299170,,658184,,,0
+H5,2019,2019,2019,4,0,2,Export,643,Russian Federation,RUS,646,Rwanda,RWA,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,59024400,,,,59024400,,12234483,,,0
+H5,2019,2019,2019,4,0,2,Export,643,Russian Federation,RUS,686,Senegal,SEN,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,296357540,,,,296357540,,62503123,,,0
+H5,2019,2019,2019,4,0,2,Export,643,Russian Federation,RUS,704,Viet Nam,VNM,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,604543080,,,,604543080,,107196188,,,0
+H5,2019,2019,2019,4,0,2,Export,643,Russian Federation,RUS,706,Somalia,SOM,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,1372500,,,,1372500,,612858,,,0
+H5,2019,2019,2019,4,0,2,Export,643,Russian Federation,RUS,710,South Africa,ZAF,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,453129000,,,,453129000,,92077027,,,0
+H5,2019,2019,2019,4,0,2,Export,643,Russian Federation,RUS,716,Zimbabwe,ZWE,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,810000,,,,810000,,374644,,,0
+H5,2019,2019,2019,4,0,2,Export,643,Russian Federation,RUS,724,Spain,ESP,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,4000000,,,,4000000,,808000,,,0
+H5,2019,2019,2019,4,0,2,Export,643,Russian Federation,RUS,729,Sudan,SDN,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,986953300,,,,986953300,,204167224,,,0
+H5,2019,2019,2019,4,0,2,Export,643,Russian Federation,RUS,752,Sweden,SWE,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,6945930,,,,6945930,,1228116,,,0
+H5,2019,2019,2019,4,0,2,Export,643,Russian Federation,RUS,757,Switzerland,CHE,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,99033300,,,,99033300,,18807624,,,0
+H5,2019,2019,2019,4,0,2,Export,643,Russian Federation,RUS,760,Syria,SYR,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,83573190,,,,83573190,,15228936,,,0
+H5,2019,2019,2019,4,0,2,Export,643,Russian Federation,RUS,762,Tajikistan,TJK,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,32,,,,32,,63,,,0
+H5,2019,2019,2019,4,0,2,Export,643,Russian Federation,RUS,764,Thailand,THA,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,1013240,,,,1013240,,299919,,,0
+H5,2019,2019,2019,4,0,2,Export,643,Russian Federation,RUS,768,Togo,TGO,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,29000000,,,,29000000,,6020939,,,0
+H5,2019,2019,2019,4,0,2,Export,643,Russian Federation,RUS,784,United Arab Emirates,ARE,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,736156920,,,,736156920,,149864679,,,0
+H5,2019,2019,2019,4,0,2,Export,643,Russian Federation,RUS,788,Tunisia,TUN,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,79310000,,,,79310000,,16196870,,,0
+H5,2019,2019,2019,4,0,2,Export,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,7035357310,,,,7035357310,,1376423865,,,0
+H5,2019,2019,2019,4,0,2,Export,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,3652790,,,,3652790,,811546,,,0
+H5,2019,2019,2019,4,0,2,Export,643,Russian Federation,RUS,800,Uganda,UGA,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,141083000,,,,141083000,,27497925,,,0
+H5,2019,2019,2019,4,0,2,Export,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,33131701,,,,33131701,,7719949,,,0
+H5,2019,2019,2019,4,0,2,Export,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,6129970000,,,,6129970000,,1273639979,,,0
+H5,2019,2019,2019,4,0,2,Export,643,Russian Federation,RUS,826,United Kingdom,GBR,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,3033800,,,,3033800,,879802,,,0
+H5,2019,2019,2019,4,0,2,Export,643,Russian Federation,RUS,834,United Rep. of Tanzania,TZA,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,516097100,,,,516097100,,104737505,,,0
+H5,2019,2019,2019,4,0,2,Export,643,Russian Federation,RUS,854,Burkina Faso,BFA,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,55975000,,,,55975000,,11503527,,,0
+H5,2019,2019,2019,4,0,2,Export,643,Russian Federation,RUS,860,Uzbekistan,UZB,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,2652860,,,,2652860,,1770834,,,0
+H5,2019,2019,2019,4,0,2,Export,643,Russian Federation,RUS,862,Venezuela,VEN,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,158610000,,,,158610000,,41738262,,,0
+H5,2019,2019,2019,4,0,2,Export,643,Russian Federation,RUS,887,Yemen,YEM,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,880507000,,,,880507000,,188866493,,,0
+H5,2020,2020,2020,4,0,2,Export,643,Russian Federation,RUS,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,37267013728,,,,37267013728,,7918294256,,,0
+H5,2020,2020,2020,4,0,2,Export,643,Russian Federation,RUS,4,Afghanistan,AFG,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,3388750,,,,3388750,,1068413,,,0
+H5,2020,2020,2020,4,0,2,Export,643,Russian Federation,RUS,8,Albania,ALB,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,149277140,,,,149277140,,31206601,,,0
+H5,2020,2020,2020,4,0,2,Export,643,Russian Federation,RUS,24,Angola,AGO,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,199652300,,,,199652300,,46093795,,,0
+H5,2020,2020,2020,4,0,2,Export,643,Russian Federation,RUS,31,Azerbaijan,AZE,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,1385006774,,,,1385006774,,284513751,,,0
+H5,2020,2020,2020,4,0,2,Export,643,Russian Federation,RUS,50,Bangladesh,BGD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,1940854670,,,,1940854670,,408861181,,,0
+H5,2020,2020,2020,4,0,2,Export,643,Russian Federation,RUS,51,Armenia,ARM,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,334863948,,,,334863948,,63068796,,,0
+H5,2020,2020,2020,4,0,2,Export,643,Russian Federation,RUS,76,Brazil,BRA,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,237557500,,,,237557500,,47358518,,,0
+H5,2020,2020,2020,4,0,2,Export,643,Russian Federation,RUS,100,Bulgaria,BGR,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,9377590,,,,9377590,,1877321,,,0
+H5,2020,2020,2020,4,0,2,Export,643,Russian Federation,RUS,108,Burundi,BDI,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,17131000,,,,17131000,,4453191,,,0
+H5,2020,2020,2020,4,0,2,Export,643,Russian Federation,RUS,112,Belarus,BLR,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,15723134,,,,15723134,,2479372,,,0
+H5,2020,2020,2020,4,0,2,Export,643,Russian Federation,RUS,120,Cameroon,CMR,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,388500000,,,,388500000,,81823834,,,0
+H5,2020,2020,2020,4,0,2,Export,643,Russian Federation,RUS,132,Cabo Verde,CPV,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,10000000,,,,10000000,,2021368,,,0
+H5,2020,2020,2020,4,0,2,Export,643,Russian Federation,RUS,144,Sri Lanka,LKA,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,415260000,,,,415260000,,88632024,,,0
+H5,2020,2020,2020,4,0,2,Export,643,Russian Federation,RUS,156,China,CHN,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,57013105,,,,57013105,,11106011,,,0
+H5,2020,2020,2020,4,0,2,Export,643,Russian Federation,RUS,178,Congo,COG,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,184253560,,,,184253560,,38937780,,,0
+H5,2020,2020,2020,4,0,2,Export,643,Russian Federation,RUS,180,Dem. Rep. of the Congo,COD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,199026900,,,,199026900,,42575258,,,0
+H5,2020,2020,2020,4,0,2,Export,643,Russian Federation,RUS,196,Cyprus,CYP,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,24942990,,,,24942990,,5187325,,,0
+H5,2020,2020,2020,4,0,2,Export,643,Russian Federation,RUS,204,Benin,BEN,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,22499960,,,,22499960,,4726725,,,0
+H5,2020,2020,2020,4,0,2,Export,643,Russian Federation,RUS,231,Ethiopia,ETH,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,52000000,,,,52000000,,10897933,,,0
+H5,2020,2020,2020,4,0,2,Export,643,Russian Federation,RUS,246,Finland,FIN,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,88086510,,,,88086510,,19221378,,,0
+H5,2020,2020,2020,4,0,2,Export,643,Russian Federation,RUS,266,Gabon,GAB,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,12650000,,,,12650000,,2713396,,,0
+H5,2020,2020,2020,4,0,2,Export,643,Russian Federation,RUS,268,Georgia,GEO,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,588392069,,,,588392069,,90025149,,,0
+H5,2020,2020,2020,4,0,2,Export,643,Russian Federation,RUS,270,Gambia,GMB,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,52700000,,,,52700000,,11016270,,,0
+H5,2020,2020,2020,4,0,2,Export,643,Russian Federation,RUS,276,Germany,DEU,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,433946,,,,433946,,138899,,,0
+H5,2020,2020,2020,4,0,2,Export,643,Russian Federation,RUS,288,Ghana,GHA,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,232938600,,,,232938600,,48560249,,,0
+H5,2020,2020,2020,4,0,2,Export,643,Russian Federation,RUS,300,Greece,GRC,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,147494970,,,,147494970,,31475480,,,0
+H5,2020,2020,2020,4,0,2,Export,643,Russian Federation,RUS,324,Guinea,GIN,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,60000000,,,,60000000,,12567450,,,0
+H5,2020,2020,2020,4,0,2,Export,643,Russian Federation,RUS,360,Indonesia,IDN,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,2961340,,,,2961340,,517819,,,0
+H5,2020,2020,2020,4,0,2,Export,643,Russian Federation,RUS,368,Iraq,IRQ,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,52400,,,,52400,,12832,,,0
+H5,2020,2020,2020,4,0,2,Export,643,Russian Federation,RUS,376,Israel,ISR,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,541126100,,,,541126100,,107358475,,,0
+H5,2020,2020,2020,4,0,2,Export,643,Russian Federation,RUS,381,Italy,ITA,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,92525050,,,,92525050,,23466494,,,0
+H5,2020,2020,2020,4,0,2,Export,643,Russian Federation,RUS,384,Côte d'Ivoire,CIV,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,64968000,,,,64968000,,13013466,,,0
+H5,2020,2020,2020,4,0,2,Export,643,Russian Federation,RUS,398,Kazakhstan,KAZ,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,523958307,,,,523958307,,86378132,,,0
+H5,2020,2020,2020,4,0,2,Export,643,Russian Federation,RUS,400,Jordan,JOR,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,292713000,,,,292713000,,64122265,,,0
+H5,2020,2020,2020,4,0,2,Export,643,Russian Federation,RUS,404,Kenya,KEN,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,602137000,,,,602137000,,125477021,,,0
+H5,2020,2020,2020,4,0,2,Export,643,Russian Federation,RUS,408,Dem. People's Rep. of Korea,PRK,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,50000000,,,,50000000,,15377320,,,0
+H5,2020,2020,2020,4,0,2,Export,643,Russian Federation,RUS,410,Rep. of Korea,KOR,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,82041000,,,,82041000,,19030603,,,0
+H5,2020,2020,2020,4,0,2,Export,643,Russian Federation,RUS,417,Kyrgyzstan,KGZ,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,131132139,,,,131132139,,28584123,,,0
+H5,2020,2020,2020,4,0,2,Export,643,Russian Federation,RUS,422,Lebanon,LBN,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,159363980,,,,159363980,,34148083,,,0
+H5,2020,2020,2020,4,0,2,Export,643,Russian Federation,RUS,428,Latvia,LVA,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,374871900,,,,374871900,,75078624,,,0
+H5,2020,2020,2020,4,0,2,Export,643,Russian Federation,RUS,430,Liberia,LBR,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,12600000,,,,12600000,,2545093,,,0
+H5,2020,2020,2020,4,0,2,Export,643,Russian Federation,RUS,434,Libya,LBY,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,170698520,,,,170698520,,37448090,,,0
+H5,2020,2020,2020,4,0,2,Export,643,Russian Federation,RUS,440,Lithuania,LTU,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,170002150,,,,170002150,,35798927,,,0
+H5,2020,2020,2020,4,0,2,Export,643,Russian Federation,RUS,450,Madagascar,MDG,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,36000000,,,,36000000,,7345161,,,0
+H5,2020,2020,2020,4,0,2,Export,643,Russian Federation,RUS,454,Malawi,MWI,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,46554000,,,,46554000,,11487478,,,0
+H5,2020,2020,2020,4,0,2,Export,643,Russian Federation,RUS,458,Malaysia,MYS,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,53248420,,,,53248420,,11741551,,,0
+H5,2020,2020,2020,4,0,2,Export,643,Russian Federation,RUS,466,Mali,MLI,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,137025000,,,,137025000,,29201478,,,0
+H5,2020,2020,2020,4,0,2,Export,643,Russian Federation,RUS,470,Malta,MLT,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,5795570,,,,5795570,,1228660,,,0
+H5,2020,2020,2020,4,0,2,Export,643,Russian Federation,RUS,478,Mauritania,MRT,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,158106000,,,,158106000,,30952815,,,0
+H5,2020,2020,2020,4,0,2,Export,643,Russian Federation,RUS,484,Mexico,MEX,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,96040200,,,,96040200,,19818539,,,0
+H5,2020,2020,2020,4,0,2,Export,643,Russian Federation,RUS,496,Mongolia,MNG,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,177705110,,,,177705110,,40118861,,,0
+H5,2020,2020,2020,4,0,2,Export,643,Russian Federation,RUS,498,Rep. of Moldova,MDA,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,64300,,,,64300,,40905,,,0
+H5,2020,2020,2020,4,0,2,Export,643,Russian Federation,RUS,504,Morocco,MAR,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,426485800,,,,426485800,,89702290,,,0
+H5,2020,2020,2020,4,0,2,Export,643,Russian Federation,RUS,508,Mozambique,MOZ,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,349557800,,,,349557800,,76257468,,,0
+H5,2020,2020,2020,4,0,2,Export,643,Russian Federation,RUS,512,Oman,OMN,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,429095200,,,,429095200,,88748919,,,0
+H5,2020,2020,2020,4,0,2,Export,643,Russian Federation,RUS,516,Namibia,NAM,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,83703610,,,,83703610,,17100396,,,0
+H5,2020,2020,2020,4,0,2,Export,643,Russian Federation,RUS,528,Netherlands,NLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,1454550,,,,1454550,,404655,,,0
+H5,2020,2020,2020,4,0,2,Export,643,Russian Federation,RUS,558,Nicaragua,NIC,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,102402300,,,,102402300,,22720360,,,0
+H5,2020,2020,2020,4,0,2,Export,643,Russian Federation,RUS,566,Nigeria,NGA,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,998131200,,,,998131200,,207187015,,,0
+H5,2020,2020,2020,4,0,2,Export,643,Russian Federation,RUS,579,Norway,NOR,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,21969250,,,,21969250,,4438772,,,0
+H5,2020,2020,2020,4,0,2,Export,643,Russian Federation,RUS,586,Pakistan,PAK,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,1173080500,,,,1173080500,,277170290,,,0
+H5,2020,2020,2020,4,0,2,Export,643,Russian Federation,RUS,608,Philippines,PHL,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,554743000,,,,554743000,,110080219,,,0
+H5,2020,2020,2020,4,0,2,Export,643,Russian Federation,RUS,616,Poland,POL,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,1049092,,,,1049092,,429760,,,0
+H5,2020,2020,2020,4,0,2,Export,643,Russian Federation,RUS,634,Qatar,QAT,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,82000000,,,,82000000,,17151861,,,0
+H5,2020,2020,2020,4,0,2,Export,643,Russian Federation,RUS,642,Romania,ROU,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,56159020,,,,56159020,,10670838,,,0
+H5,2020,2020,2020,4,0,2,Export,643,Russian Federation,RUS,646,Rwanda,RWA,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,64883350,,,,64883350,,13832879,,,0
+H5,2020,2020,2020,4,0,2,Export,643,Russian Federation,RUS,682,Saudi Arabia,SAU,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,246520000,,,,246520000,,54179156,,,0
+H5,2020,2020,2020,4,0,2,Export,643,Russian Federation,RUS,686,Senegal,SEN,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,339118100,,,,339118100,,71619628,,,0
+H5,2020,2020,2020,4,0,2,Export,643,Russian Federation,RUS,688,Serbia,SRB,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,106800,,,,106800,,60780,,,0
+H5,2020,2020,2020,4,0,2,Export,643,Russian Federation,RUS,704,Viet Nam,VNM,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,464392400,,,,464392400,,105229623,,,0
+H5,2020,2020,2020,4,0,2,Export,643,Russian Federation,RUS,706,Somalia,SOM,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,29650000,,,,29650000,,6495440,,,0
+H5,2020,2020,2020,4,0,2,Export,643,Russian Federation,RUS,710,South Africa,ZAF,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,554208800,,,,554208800,,114970289,,,0
+H5,2020,2020,2020,4,0,2,Export,643,Russian Federation,RUS,724,Spain,ESP,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,21488520,,,,21488520,,4643486,,,0
+H5,2020,2020,2020,4,0,2,Export,643,Russian Federation,RUS,729,Sudan,SDN,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,1333408700,,,,1333408700,,282935750,,,0
+H5,2020,2020,2020,4,0,2,Export,643,Russian Federation,RUS,757,Switzerland,CHE,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,54937100,,,,54937100,,11295592,,,0
+H5,2020,2020,2020,4,0,2,Export,643,Russian Federation,RUS,762,Tajikistan,TJK,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,5399582,,,,5399582,,1584162,,,0
+H5,2020,2020,2020,4,0,2,Export,643,Russian Federation,RUS,764,Thailand,THA,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,313156850,,,,313156850,,66521555,,,0
+H5,2020,2020,2020,4,0,2,Export,643,Russian Federation,RUS,768,Togo,TGO,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,70000000,,,,70000000,,14813183,,,0
+H5,2020,2020,2020,4,0,2,Export,643,Russian Federation,RUS,784,United Arab Emirates,ARE,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,674558011,,,,674558011,,146013357,,,0
+H5,2020,2020,2020,4,0,2,Export,643,Russian Federation,RUS,788,Tunisia,TUN,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,111266800,,,,111266800,,23983042,,,0
+H5,2020,2020,2020,4,0,2,Export,643,Russian Federation,RUS,792,Turkey,TUR,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,7900550400,,,,7900550400,,1686194284,,,0
+H5,2020,2020,2020,4,0,2,Export,643,Russian Federation,RUS,795,Turkmenistan,TKM,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,17255920,,,,17255920,,3111684,,,0
+H5,2020,2020,2020,4,0,2,Export,643,Russian Federation,RUS,800,Uganda,UGA,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,192264900,,,,192264900,,41373632,,,0
+H5,2020,2020,2020,4,0,2,Export,643,Russian Federation,RUS,804,Ukraine,UKR,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,11329500,,,,11329500,,2742498,,,0
+H5,2020,2020,2020,4,0,2,Export,643,Russian Federation,RUS,818,Egypt,EGY,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,8254555420,,,,8254555420,,1796606895,,,0
+H5,2020,2020,2020,4,0,2,Export,643,Russian Federation,RUS,834,United Rep. of Tanzania,TZA,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,700911450,,,,700911450,,154878722,,,0
+H5,2020,2020,2020,4,0,2,Export,643,Russian Federation,RUS,854,Burkina Faso,BFA,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,6300000,,,,6300000,,1276468,,,0
+H5,2020,2020,2020,4,0,2,Export,643,Russian Federation,RUS,860,Uzbekistan,UZB,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,14101500,,,,14101500,,4654501,,,0
+H5,2020,2020,2020,4,0,2,Export,643,Russian Federation,RUS,887,Yemen,YEM,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,796103400,,,,796103400,,174314485,,,0
